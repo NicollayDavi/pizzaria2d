@@ -6,8 +6,8 @@ const Home = () => {
     return (
         <Link to="/inicio">
           <img src={logo} alt="logo" width="100" />
-        </Link>
-    
+          <p>Imagem do Logo</p>
+        </Link> 
      )
 }
 
